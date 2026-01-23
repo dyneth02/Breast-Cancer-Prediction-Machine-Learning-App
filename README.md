@@ -72,3 +72,11 @@ An end-to-end machine learning application for breast cancer diagnosis that pred
   To retrain the model:
   ```bash
    python model_training.py
+  ```
+
+This will:
+  1. Load and clean the dataset
+  2. Split data into training and testing sets
+  3. Train a logistic regression model
+  4. Evaluate model performance
+  5. Save the model and scaler as .pkl files
