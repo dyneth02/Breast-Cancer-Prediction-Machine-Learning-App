@@ -52,3 +52,6 @@ An end-to-end machine learning application for breast cancer diagnosis that pred
    ```bash
    git clone https://github.com/yourusername/breast-cancer-prediction.git
    cd breast-cancer-prediction
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
