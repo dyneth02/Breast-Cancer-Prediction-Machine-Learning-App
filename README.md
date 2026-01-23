@@ -55,3 +55,6 @@ An end-to-end machine learning application for breast cancer diagnosis that pred
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the web application:
+   ```bash
+   streamlit run main.py
