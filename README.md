@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis ML Web Application
+# 🩺 Breast Cancer Diagnosis ML Web Application
 
 ## 📋 Project Overview
 An end-to-end machine learning application for breast cancer diagnosis that predicts whether a breast mass is benign or malignant based on cytology lab measurements. The project includes both model training and an interactive web interface.
