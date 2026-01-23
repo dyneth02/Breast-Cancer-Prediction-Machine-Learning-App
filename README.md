@@ -104,3 +104,6 @@ This will:
   2. High accuracy on test data
   3. Detailed classification metrics
   4. Probability outputs for confident decision-making
+
+## ⚠️ Important Disclaimer
+  This application is designed to assist medical professionals and should NOT be used as a substitute for professional medical diagnosis, advice, or treatment. Always consult qualified healthcare providers for     medical decisions.
