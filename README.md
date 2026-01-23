@@ -87,3 +87,13 @@ This will:
   2. View Visualization: Observe the radar chart showing three measurement categories
   3. Get Predictions: See the prediction (Benign/Malignant) with probability scores
   4. Medical Disclaimer: Always consult healthcare professionals for actual diagnoses
+
+## 📊 Dataset Information
+
+  1. The application uses the Wisconsin Breast Cancer Dataset containing:
+  2. 569 instances with 30 features each
+  3. Features include mean, standard error, and worst values of:
+  4. Radius, Texture, Perimeter, Area
+  5. Smoothness, Compactness, Concavity
+  6. Concave Points, Symmetry, Fractal Dimension
+  7. Binary target variable: Malignant (M) or Benign (B)
