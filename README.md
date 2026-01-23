@@ -29,11 +29,26 @@ An end-to-end machine learning application for breast cancer diagnosis that pred
 - **User-Friendly Interface**: Intuitive sidebar controls and clear result displays
 
 ## 📁 Project Structure
-├── main.py # Streamlit web application
-├── model_training.py # ML model training script
-├── model.pkl # Trained logistic regression model
-├── scaler.pkl # Fitted StandardScaler object
-├── dataset/
-│ └── cdata.csv # Breast cancer dataset
-├── requirements.txt # Python dependencies
-└── README.md # This file
+```
+  ├── main.py # Streamlit web application
+  ├── model_training.py # ML model training script
+  ├── model.pkl # Trained logistic regression model
+  ├── scaler.pkl # Fitted StandardScaler object
+  ├── dataset/
+  │ └── cdata.csv # Breast cancer dataset
+  ├── requirements.txt # Python dependencies
+  └── README.md # This file
+```
+
+
+## 🔧 Installation & Setup
+
+### Prerequisites
+- Python 3.8+
+- pip package manager
+
+### Installation Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/breast-cancer-prediction.git
+   cd breast-cancer-prediction
