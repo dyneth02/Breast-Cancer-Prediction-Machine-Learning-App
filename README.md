@@ -3,6 +3,14 @@
 ## 📋 Project Overview
 An end-to-end machine learning application for breast cancer diagnosis that predicts whether a breast mass is benign or malignant based on cytology lab measurements. The project includes both model training and an interactive web interface.
 
+<p align="center">
+  <img src="https://github.com/dyneth02/Breast-Cancer-Prediction-Machine-Learning-App/blob/main/screen-shots/Screenshot%202026-01-21%20122933.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/dyneth02/Breast-Cancer-Prediction-Machine-Learning-App/blob/main/screen-shots/Screenshot%202026-01-21%20123019.png">
+</p>
+
 ## 🚀 Features
 
 ### **1. Machine Learning Pipeline**
