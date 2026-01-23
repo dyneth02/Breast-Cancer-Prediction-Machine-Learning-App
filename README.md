@@ -107,3 +107,19 @@ This will:
 
 ## ⚠️ Important Disclaimer
   This application is designed to assist medical professionals and should NOT be used as a substitute for professional medical diagnosis, advice, or treatment. Always consult qualified healthcare providers for     medical decisions.
+
+## 🤝 Contributing
+  Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+  This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+  - University of Wisconsin for the Breast Cancer Dataset
+  - Streamlit for the amazing web app framework
+  - Scikit-learn for machine learning tools
+  - Plotly for visualization capabilities
+
+📞 Contact
+For questions or feedback, please open an issue in the GitHub reposito
