@@ -121,5 +121,32 @@ This will:
   - Scikit-learn for machine learning tools
   - Plotly for visualization capabilities
 
-📞 Contact
-For questions or feedback, please open an issue in the GitHub reposito
+## 📞 Contact
+  For questions or feedback, please open an issue in the GitHub reposito
+
+
+---
+
+## Key Files to Upload to GitHub:
+
+  1. **`main.py`** - Streamlit web application
+  2. **`model_training.py`** - Model training script (from your second file)
+  3. **`model.pkl`** - Trained model
+  4. **`scaler.pkl`** - Scaler object
+  5. **`dataset/cdata.csv`** - Dataset file
+  6. **`requirements.txt`** - Dependencies
+  7. **`README.md`** - Documentation (created above)
+  8. **`.gitignore`** - To exclude unnecessary files
+
+## Quick Start Commands:
+  ```bash
+  # Create requirements.txt
+  pip freeze > requirements.txt
+  
+  # Initialize git repo
+  git init
+  git add .
+  git commit -m "Initial commit: Breast Cancer Diagnosis ML App"
+  git branch -M main
+  git remote add origin https://github.com/yourusername/repo-name.git
+  git push -u origin main
