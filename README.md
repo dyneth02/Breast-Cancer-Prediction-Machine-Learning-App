@@ -80,3 +80,10 @@ This will:
   3. Train a logistic regression model
   4. Evaluate model performance
   5. Save the model and scaler as .pkl files
+
+## 🎮 Using the Application
+
+  1. Adjust Measurements: Use the sidebar sliders to input cell nuclei measurements
+  2. View Visualization: Observe the radar chart showing three measurement categories
+  3. Get Predictions: See the prediction (Benign/Malignant) with probability scores
+  4. Medical Disclaimer: Always consult healthcare professionals for actual diagnoses
