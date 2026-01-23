@@ -97,3 +97,10 @@ This will:
   5. Smoothness, Compactness, Concavity
   6. Concave Points, Symmetry, Fractal Dimension
   7. Binary target variable: Malignant (M) or Benign (B)
+
+## 🔍 Model Performance
+
+  1. The logistic regression model achieves:
+  2. High accuracy on test data
+  3. Detailed classification metrics
+  4. Probability outputs for confident decision-making
