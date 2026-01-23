@@ -58,3 +58,12 @@ An end-to-end machine learning application for breast cancer diagnosis that pred
 3. Run the web application:
    ```bash
    streamlit run main.py
+
+## Dependencies (requirements.txt)
+   ```bash
+   streamlit==1.28.0
+   pandas==2.0.3
+   numpy==1.24.3
+   scikit-learn==1.3.0
+   plotly==5.17.0
+
